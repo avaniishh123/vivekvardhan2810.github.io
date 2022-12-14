@@ -4,7 +4,8 @@ This repository is created for submitting the solutions of the assignments of th
 Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
 ## Module #3 Coding Assignment Solution
-code url: https://github.com/vivekvardhan2810/vivekvardhan2810.github.io/tree/master/week3full 
+code url: https://github.com/vivekvardhan2810/vivekvardhan2810.github.io/tree/master/week3full
+
 Hosted url: https://vivekvardhan2810.github.io/week3full/index.html
 
 ## Module #4 Coding Assignment Solution
